@@ -1,6 +1,6 @@
 {
   "display_name": "Swift, XCTest",
-  "image_name": "cyberdojofoundation/swift_xctest:150f5d9",
+  "image_name": "cyberdojofoundation/swift_xctest:1f5382e",
   "visible_filenames": [
     "hikertests.swift",
     "hiker.swift",
