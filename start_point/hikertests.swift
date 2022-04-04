@@ -1,21 +1,21 @@
 import XCTest
 
 class HikerTests: XCTestCase {
-  var hiker : Hiker!
+    var hiker: Hiker!
 
-  override func setUp() {
-    super.setUp()
-    hiker = Hiker()
-  }
+    override func setUp() {
+        super.setUp()
+        hiker = Hiker()
+    }
 
-  override func tearDown() {
-    hiker = nil
-    super.tearDown()
-  }
+    override func tearDown() {
+        hiker = nil
+        super.tearDown()
+    }
 
-  func testLife_the_universe_and_everything() {
-    XCTAssertEqual(hiker.answer(), 42)
-  }
+    func testLife_the_universe_and_everything() {
+        XCTAssertEqual(hiker.answer(), 42)
+    }
 }
 
 extension HikerTests {
