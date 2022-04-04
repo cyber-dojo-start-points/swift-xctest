@@ -8,6 +8,11 @@ class HikerTests: XCTestCase {
     hiker = Hiker()
   }
 
+  override func tearDown() {
+    hiker = nil
+    super.tearDown()
+  }
+
   func testLife_the_universe_and_everything() {
     XCTAssertEqual(hiker.answer(), 42)
   }
