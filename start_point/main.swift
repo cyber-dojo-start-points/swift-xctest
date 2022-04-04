@@ -1,3 +1,5 @@
 import XCTest
 
-XCTMain([ testCase(HikerTests.allTests) ])
+XCTMain([
+    testCase(HikerTests.allTests),
+])
