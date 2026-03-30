@@ -1,12 +1,13 @@
 {
-  "display_name": "Swift, XCTest",
-  "image_name": "cyberdojofoundation/swift_xctest:1f5382e",
+  "display_name": "Swift 6.0.3, XCTest",
+  "image_name": "ghcr.io/cyber-dojo-languages/swift_xctest:f9fce1c",
   "visible_filenames": [
     "hikertests.swift",
     "hiker.swift",
     "main.swift",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".swift"
   ],
