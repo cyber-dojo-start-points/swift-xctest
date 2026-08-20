@@ -1,14 +1,14 @@
 {
-  "display_name": "Swift 6.0.3, XCTest",
+  "image_name": "ghcr.io/cyber-dojo-languages/swift_xctest:a3cda65",
+  "display_name": "Swift 6.3.3, XCTest",
   "language": [
     "Swift",
-    "6.0.3"
+    "6.3.3"
   ],
   "test_framework": [
     "XCTest",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/swift_xctest:8f3a0e7",
   "visible_filenames": [
     "hikertests.swift",
     "hiker.swift",
