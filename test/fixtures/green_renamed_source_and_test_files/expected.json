@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 20,
+  "truncated": false,
+  "match_counts": {
+    "^Test Case 'FizzBuzzTests\\.testMultiples_of_three_say_Fizz' passed": 1,
+    "Hiker": 0,
+    "Executed 1 test, with 0 failures \\(0 unexpected\\)": 3
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "truncated": false,
+  "matches": [
+    "hikertests\\.swift:[0-9]+: error: HikerTests\\.testLife_the_universe_and_everything : XCTAssertEqual failed: \\(\"54\"\\) is not equal to \\(\"42\"\\)"
+  ],
+  "match_counts": {
+    "^Test Case 'HikerTests\\.testLife_the_universe_and_everything' failed": 1,
+    "Executed 1 test, with 1 failure \\(0 unexpected\\)": 3
+  }
+}

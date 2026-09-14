@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 20,
+  "truncated": false,
+  "match_counts": {
+    "AnswerSize": 0,
+    "ansewr": 0,
+    "Executed 1 test, with 0 failures \\(0 unexpected\\)": 3
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "Fatal error: Unexpectedly found nil while unwrapping an Optional value$"
+  ],
+  "match_counts": {
+    "^Test Case 'HikerTests\\.testLife_the_universe_and_everything' started": 1,
+    "^Test Case 'HikerTests\\.testLife_the_universe_and_everything' (passed|failed)": 0,
+    "Executed [0-9]+ tests?, with ": 0
+  }
+}

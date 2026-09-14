@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^Test Suite 'HikerTests' ": 0,
+    "^Test Case ": 0,
+    "Executed 0 tests, with 0 failures \\(0 unexpected\\)": 2
+  }
+}

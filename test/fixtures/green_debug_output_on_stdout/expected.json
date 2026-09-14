@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 20,
+  "truncated": false,
+  "match_counts": {
+    "^answer was called$": 1,
+    "^Test Case 'HikerTests\\.testLife_the_universe_and_everything' passed": 1,
+    "Executed 1 test, with 0 failures \\(0 unexpected\\)": 3
+  }
+}

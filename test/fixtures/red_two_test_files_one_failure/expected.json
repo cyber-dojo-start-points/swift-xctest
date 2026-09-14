@@ -1,0 +1,9 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^Test Case 'AnswerSizeTests\\.testThe_answer_is_three_digits_long' failed": 1,
+    "^Test Case '[A-Za-z]+\\.[a-zA-Z_]+' failed": 1,
+    "^Test Case '[A-Za-z]+\\.[a-zA-Z_]+' passed": 3,
+    "Executed 4 tests, with 1 failure \\(0 unexpected\\)": 2
+  }
+}

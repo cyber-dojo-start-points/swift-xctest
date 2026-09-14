@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 25,
+  "truncated": false,
+  "match_counts": {
+    "^Test Case 'AnswerSizeTests\\.testThe_answer_is_two_digits_long' passed": 1,
+    "Executed 2 tests, with 0 failures \\(0 unexpected\\)": 2
+  }
+}

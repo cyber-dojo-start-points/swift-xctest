@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 20,
+  "truncated": false,
+  "match_counts": {
+    "^Test Case 'HikerTests\\.checkLife_the_universe_and_everything' passed": 1,
+    "Executed 1 test, with 0 failures \\(0 unexpected\\)": 3
+  }
+}

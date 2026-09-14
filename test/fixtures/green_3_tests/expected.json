@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 25,
+  "truncated": false,
+  "match_counts": {
+    "^Test Case 'HikerTests\\.[a-zA-Z_]+' passed": 3,
+    "Executed 3 tests, with 0 failures \\(0 unexpected\\)": 3
+  }
+}

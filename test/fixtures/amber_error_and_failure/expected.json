@@ -1,0 +1,11 @@
+{
+  "truncated": false,
+  "matches": [
+    "error: HikerTests\\.testThe_answer_is_two_digits_long : threw error \"towelNotFound\"$",
+    "hikertests\\.swift:[0-9]+: error: HikerTests\\.testLife_the_universe_and_everything : XCTAssertEqual failed: \\(\"54\"\\) is not equal to \\(\"42\"\\)"
+  ],
+  "match_counts": {
+    "^Test Case 'HikerTests\\.[a-zA-Z_]+' failed": 2,
+    "Executed 2 tests, with 2 failures \\(1 unexpected\\)": 3
+  }
+}

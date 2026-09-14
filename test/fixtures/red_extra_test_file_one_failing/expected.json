@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^Test Case 'AnswerSizeTests\\.testThe_answer_is_three_digits_long' failed": 1,
+    "^Test Case 'HikerTests\\.testLife_the_universe_and_everything' passed": 1,
+    "Executed 2 tests, with 1 failure \\(0 unexpected\\)": 2
+  }
+}

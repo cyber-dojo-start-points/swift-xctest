@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^Test Case 'HikerTests\\.[a-zA-Z_]+' failed": 3,
+    "^Test Case 'HikerTests\\.[a-zA-Z_]+' passed": 0,
+    "Executed 3 tests, with 3 failures \\(0 unexpected\\)": 3
+  }
+}

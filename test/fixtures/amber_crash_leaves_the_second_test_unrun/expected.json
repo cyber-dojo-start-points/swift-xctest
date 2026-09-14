@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "Fatal error: Index out of range$"
+  ],
+  "match_counts": {
+    "^Test Case 'HikerTests\\.testLife_the_universe_and_everything' started": 1,
+    "^Test Case 'HikerTests\\.testThe_answer_is_two_digits_long' started": 0,
+    "Executed [0-9]+ tests?, with ": 0
+  }
+}
