@@ -1,9 +1,9 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/swift_xctest:33b06d1@sha256:d5c031ee40cde41134a80c21a7687da8269cbeade3f113ba546b18252aff13aa",
-  "display_name": "Swift 6.4.2, XCTest",
+  "image_name": "ghcr.io/cyber-dojo-languages/swift_xctest:79d32bd@sha256:af4126606a462c0a39de847f4b9f23929d38ffbaeb8183a23d2bba9d551b9f81",
+  "display_name": "Swift 6.4.3, XCTest",
   "language": [
     "Swift",
-    "6.4.2"
+    "6.4.3"
   ],
   "test_framework": [
     "XCTest",
